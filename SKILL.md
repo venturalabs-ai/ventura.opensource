@@ -1,5 +1,9 @@
 # Skill: ventura.opensource — LOOP Skill Engine / Deterministic Replay
 
+![UPL-1.0](https://img.shields.io/github/license/chamseddinehiddoud/ventura.opensource)
+![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.opensource)
+![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.opensource)
+
 Skill de estudo com materiais gratuitos (livros e guias) usando **execução
 determinística**: explore a trilha uma vez, compile o plano de leitura,
 replique a leitura diária com ~zero tokens, regenere quando o objetivo mudar.
