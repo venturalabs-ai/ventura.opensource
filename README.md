@@ -1,5 +1,9 @@
 # ventura.opensource
 
+![UPL-1.0](https://img.shields.io/github/license/chamseddinehiddoud/ventura.opensource)
+![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.opensource)
+![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.opensource)
+
 Versão **Ventura** do clássico *free-programming-books* — biblioteca curada de
 livros e materiais gratuitos de programação, com uma skill de replay
 determinístico para manter um plano de leitura ativo sem retrabalho.
