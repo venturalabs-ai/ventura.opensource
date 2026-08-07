@@ -1,50 +1,42 @@
 # ventura.opensource
 
-![UPL-1.0](https://img.shields.io/github/license/chamseddinehiddoud/ventura.opensource)
-![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.opensource)
-![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.opensource)
+![Status](https://img.shields.io/badge/status-curation%20%2B%20skill-blueviolet)
+![License](https://img.shields.io/github/license/venturalabs-ai/ventura.opensource)
+![Stars](https://img.shields.io/github/stars/venturalabs-ai/ventura.opensource)
 
-Versão **Ventura** do clássico *free-programming-books* — biblioteca curada de
-livros e materiais gratuitos de programação, com uma skill de replay
-determinístico para manter um plano de leitura ativo sem retrabalho.
+**Curadoria de livros, guias e materiais gratuitos para estudo de programação e engenharia de software.**
 
-> **Curadoria original** — este repositório seleciona livros e materiais
-> gratuitos de forma própria; o índice gigante e comunitário vive no projeto
-> original (free-programming-books).
+## Classificação
 
-## O que é
+**Curation / Skill Repository.** Este repositório organiza referências; não redistribui obras externas sem observar suas licenças.
 
-Uma biblioteca enxuta e prática por trilha de estudo: apenas materiais
-gratuitos, atuais e com bom custo-benefício de leitura. A skill `SKILL.md`
-transforma a leitura em processo determinístico.
+## Referência upstream
 
-## Trilhas curadas
+Inspirado por bibliotecas comunitárias como `free-programming-books`, com seleção e organização próprias.
 
-| Trilha | Foco | Materiais típicos |
-|---|---|---|
-| **Fundamentos** | lógica, computação, redes | livros introdutórios e de base |
-| **Linguagens** | Python, JS, Go, SQL e mais | guias oficiais e livros abertos |
-| **Backend / Dados** | API, banco, pipelines | manuais práticos e gratuitos |
-| **Frontend** | UI, web, acessibilidade | tutoriais e livros interativos |
-| **DevOps / Cloud** | infra, CI/CD, containers | guias e cheatsheets |
-| **Carreira / Entrevistas** | preparação e boas práticas | compilados e guias |
+## Trilhas
+
+- fundamentos;
+- linguagens;
+- backend e dados;
+- frontend;
+- DevOps/cloud;
+- carreira e entrevistas.
 
 ## Critérios de curadoria
 
-1. **Gratuito** — sem custo para leitura integral
-2. **Atual** — conteúdo relevante para o mercado atual
-3. **Didático** — exemplos práticos e progressão clara
-4. **Licença aberta** — uso e distribuição permitidos
+- acesso gratuito ou aberto;
+- relevância atual;
+- qualidade didática;
+- licença/termos identificáveis;
+- preferência por documentação e livros oficiais.
 
-## Como usar (com a skill)
+## Método Ventura
 
-```text
-1. Modo EXPLORE  — escolha a trilha e o material (uma vez)
-2. Modo COMPILE  — registre o plano em leitura.md (capítulos, metas, prazo)
-3. Modo REPLAY   — leitura do dia: capítulo, resumo, exercício
-4. Modo REGENERATE — trilha/objetivo mudou → regenere o plano
-```
+`EXPLORE → COMPILE → REPLAY → REGENERATE`
+
+O plano de leitura registra material, capítulos, prazo, resumo e exercício para manter progresso verificável.
 
 ## Licença
 
-Universal Permissive License 1.0 — Copyright (c) 2026 Wemerson Mota de Oliveira.
+Consulte [LICENSE](LICENSE). Cada obra externa permanece sujeita à sua licença e aos seus termos.
